@@ -1,0 +1,42 @@
+html{
+    background-color: rgb(68, 202, 226);
+    background-image:url(background.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+/* site navigation*/
+
+.site{
+    margin-top: 20px;
+}
+.site ul{
+    margin: 0;
+    padding: 0;
+}
+
+.site li{
+    list-style: none;
+    margin: 3px;
+    margin-top: 100px;
+}
+
+.site a{
+    text-decoration: none;
+    color: rgb(18, 211, 224);
+    padding: 10px 20px;
+    border: 3px solid rgb(0, 113, 128);
+    
+}
+
+.site a:hover{
+    background-color: rgb(174, 223, 243);
+}
+
+/* end navigation */
+
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-family: algerian;
+    color:  rgb(18, 211, 224);
+}
